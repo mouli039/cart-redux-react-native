@@ -1,0 +1,23 @@
+{
+  "folders": [
+	{
+		"path": "../../../todo"
+	},
+	{
+		"path": "../../../expensesApp"
+	},
+	{
+		"path": "../../../claculator"
+	},
+	{
+		"path": "../../../wheatherAPI"
+	},
+	{
+		"path": "../../../contextApi"
+	},
+	{
+		"path": "../.."
+	}
+],
+  "settings": {}
+}
